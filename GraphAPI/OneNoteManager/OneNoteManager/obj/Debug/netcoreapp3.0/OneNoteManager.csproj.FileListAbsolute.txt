@@ -1,0 +1,25 @@
+C:\Users\afoni\source\repos\OneNoteManager\OneNoteManager\bin\Debug\netcoreapp3.0\OneNoteManager.exe
+C:\Users\afoni\source\repos\OneNoteManager\OneNoteManager\obj\Debug\netcoreapp3.0\OneNoteManager.AssemblyInfoInputs.cache
+C:\Users\afoni\source\repos\OneNoteManager\OneNoteManager\obj\Debug\netcoreapp3.0\OneNoteManager.AssemblyInfo.cs
+C:\Users\afoni\source\repos\OneNoteManager\OneNoteManager\bin\Debug\netcoreapp3.0\OneNoteManager.deps.json
+C:\Users\afoni\source\repos\OneNoteManager\OneNoteManager\bin\Debug\netcoreapp3.0\OneNoteManager.runtimeconfig.json
+C:\Users\afoni\source\repos\OneNoteManager\OneNoteManager\bin\Debug\netcoreapp3.0\OneNoteManager.runtimeconfig.dev.json
+C:\Users\afoni\source\repos\OneNoteManager\OneNoteManager\bin\Debug\netcoreapp3.0\OneNoteManager.dll
+C:\Users\afoni\source\repos\OneNoteManager\OneNoteManager\bin\Debug\netcoreapp3.0\OneNoteManager.pdb
+C:\Users\afoni\source\repos\OneNoteManager\OneNoteManager\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\afoni\source\repos\OneNoteManager\OneNoteManager\obj\Debug\netcoreapp3.0\OneNoteManager.csproj.CopyComplete
+C:\Users\afoni\source\repos\OneNoteManager\OneNoteManager\obj\Debug\netcoreapp3.0\OneNoteManager.dll
+C:\Users\afoni\source\repos\OneNoteManager\OneNoteManager\obj\Debug\netcoreapp3.0\OneNoteManager.pdb
+C:\Users\afoni\OneDrive\Рабочий стол\OneNoteManager\OneNoteManager\bin\Debug\netcoreapp3.0\OneNoteManager.exe
+C:\Users\afoni\OneDrive\Рабочий стол\OneNoteManager\OneNoteManager\bin\Debug\netcoreapp3.0\OneNoteManager.deps.json
+C:\Users\afoni\OneDrive\Рабочий стол\OneNoteManager\OneNoteManager\bin\Debug\netcoreapp3.0\OneNoteManager.runtimeconfig.json
+C:\Users\afoni\OneDrive\Рабочий стол\OneNoteManager\OneNoteManager\bin\Debug\netcoreapp3.0\OneNoteManager.runtimeconfig.dev.json
+C:\Users\afoni\OneDrive\Рабочий стол\OneNoteManager\OneNoteManager\bin\Debug\netcoreapp3.0\OneNoteManager.dll
+C:\Users\afoni\OneDrive\Рабочий стол\OneNoteManager\OneNoteManager\bin\Debug\netcoreapp3.0\OneNoteManager.pdb
+C:\Users\afoni\OneDrive\Рабочий стол\OneNoteManager\OneNoteManager\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\afoni\OneDrive\Рабочий стол\OneNoteManager\OneNoteManager\obj\Debug\netcoreapp3.0\OneNoteManager.csprojAssemblyReference.cache
+C:\Users\afoni\OneDrive\Рабочий стол\OneNoteManager\OneNoteManager\obj\Debug\netcoreapp3.0\OneNoteManager.AssemblyInfoInputs.cache
+C:\Users\afoni\OneDrive\Рабочий стол\OneNoteManager\OneNoteManager\obj\Debug\netcoreapp3.0\OneNoteManager.AssemblyInfo.cs
+C:\Users\afoni\OneDrive\Рабочий стол\OneNoteManager\OneNoteManager\obj\Debug\netcoreapp3.0\OneNoteManager.csproj.CopyComplete
+C:\Users\afoni\OneDrive\Рабочий стол\OneNoteManager\OneNoteManager\obj\Debug\netcoreapp3.0\OneNoteManager.dll
+C:\Users\afoni\OneDrive\Рабочий стол\OneNoteManager\OneNoteManager\obj\Debug\netcoreapp3.0\OneNoteManager.pdb

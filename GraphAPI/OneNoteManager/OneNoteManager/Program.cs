@@ -14,10 +14,10 @@ namespace OneNoteManager
         private const string htmlPath = @"C:\Temp\template.html";
         private const string filePath = @"C:\Temp\fileCyb.pdf";
 
-        private const string clientId = "2db0c454-c71c-4a2c-9498-e48d57743327";
+        private const string clientId = "{clientIdHere}";
         private const string aadInstance = "https://login.microsoftonline.com/{0}";
         private const string tenant = "charpcompany.onmicrosoft.com";
-        private const string appKey = "sTNffg:ddIYQ@UjG47G_1ZstS?di7K]6";
+        private const string appKey = "{appKeyHere};
         private const string redirectUrl = "https://charpcompany.onmicrosoft.com/CompanyManager";
         private const string code = "OAQABAAIAAACQN9QBRU3jT6bcBQLZNUj76WDlKIZQtznfNDpwZVS7auzv13B2QcN9KLv1x5o2mb7-HRw6c00JLeGEbm3UBeaiKFJCAvUYL6R6O14tgNXJ0w_gkxRyIQgsO8Q5Pw9aW_up1iT7176RhJ0XbUIrgCvJ_XgWZXoq251bKfWod8anxN3dSI0zCujkQu9nkTWp_IwSryW91yceuDAuOf_CVqy_JzpQHwunEh9koHHEIqt9yByrVctN6Sc5NHSXvO77rBGA6K-b8-qoFWalZI0adscVk2KFkYFZIfyyzdRJH6CYQXr9liaTa3nDrimgPleMenWCHXABKk-hZHcd0tQRkrBFMs_78GfpyOdXyxYAycLiZYbV3Se-Q4N6_LEC-JaKIPQSHy1H-kkW-CovVzyDrUEG-7s62wnIA88we0sIxSAv_p1liEL_eRWAhWXOh5O35Hsv4B_lH9oTgg5sR9WfFv5k09FGlXiY8wq52ZmQp-noNB36nJkr8c6noeR5Yw0Msdcoe877qhYyC9F_DdHIImFpzPY9puxn9NH19Epbs4suBmrXah7066kW-yZCkXAk-saAViPfQagSPHI17xmJgJ0ASSZ8FZq_XanBY1s8t5Dmyi9-TClfDighBA7MbzsqEWqaASfwr8Yv1v_GKsbjQ8iC6gLjUtxMwyb5Gb3HS0kiIKsnSEjsYKT6-TymQ7qy8UBiTD-2FixjcKHNpKtE6Ikw_AXOqLZsC_oOgbC5PNUIbzYefYEHf8kRlZy9fjfj3hnNKLi0zHAGrMv4xFGbpKxHnhVZ__ULs4vKIddOKEGV96BancKVv59NgRb_JTOsu7MgAA";
 
